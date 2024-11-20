@@ -29,6 +29,6 @@ This repository contains my work for the **Continuous Assessment Exercise (CAE 2
 
 ### Deliverables
 - **Jupyter Notebook**: A well-structured notebook (`.ipynb`) containing all code, analysis, results, and visualizations.
-  - The notebook will include clear explanations, properly commented code, and visual aids (graphs, tables) to support the analysis.
+  - The notebook includeS clear explanations, properly commented code, and visual aids to support the analysis.
 
 Thank you for reviewing my work on **Data Analysis and Statistical Testing for Research Tools**!
